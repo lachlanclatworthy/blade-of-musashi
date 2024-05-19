@@ -23,6 +23,7 @@ qt_add_qml_module(appblade-of-musashi
     SOURCES person.h
     SOURCES person.cpp
     SOURCES test.cpp
+    QML_FILES Frogurt.qml
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
