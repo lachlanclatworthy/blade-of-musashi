@@ -1,5 +1,6 @@
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
+#include <vaughn.h>
 #include <dog.h>
 
 int main(int argc, char *argv[])

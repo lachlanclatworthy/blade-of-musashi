@@ -17,6 +17,8 @@ qt_add_qml_module(appblade-of-musashi
     VERSION 1.0
     QML_FILES Main.qml
     QML_FILES Box.qml
+    SOURCES vaughn.cpp
+    SOURCES vaughn.h
     SOURCES dog.cpp dog.h
 )
 
